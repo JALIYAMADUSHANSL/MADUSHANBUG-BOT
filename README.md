@@ -1,11 +1,11 @@
 <div align="center">
 
      
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=DARK+MADUSHANBUGBOT+WATSAPP+BUG+BOT)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=MADUSHAN+WATSAPP+BUG+BOT)](https://git.io/typing-svg)
 
 
 
-👇 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘 DARK-ZERO-MD 💚
+👇 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘 𝙼𝙰𝙳𝚄𝚂𝙷𝙰𝙽𝙱𝚄𝙶𝙱𝙾𝚃-𝙼𝙳 💚
 
 <a href="https://pair-web-public.koyeb.app/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
