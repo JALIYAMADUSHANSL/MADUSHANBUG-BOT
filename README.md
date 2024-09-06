@@ -24,3 +24,7 @@
   </a>
   <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/stargazers">
     <img src="https://img.shields.io/github/stars/VajiraTech/VAJIRA-MD-NEW?style=social">
+
+     
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=MADUSHAN+WATSAPP+BUG+BOT)](https://git.io/typing-svg)
+
